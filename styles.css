@@ -1,0 +1,35 @@
+body{
+  background-color: #F59CA9;
+  align-items: center;
+}
+h2{
+  color:#DF57BC;
+font-family: 'Shadows Into Light', cursive;
+text-align: center;
+font-size: 35px;
+}
+.button{
+  background-color: #A03E99;
+    color: #FAE8EB;
+    display: flex;
+    margin-left: 650px;
+    font-family: 'Poppins', sans-serif;
+    height: 150px;
+    width: 200px;
+    font-size: 50px;
+  }
+.button:active{
+  background-color: #DF57BC;
+  padding: 10px 15px;
+  transform: translateY(4px);
+
+}
+img{
+  height: 200px;
+  width: 100%;
+  align-items: center;
+}
+h1{
+  color: #944BBB;
+  font-family: 'Oswald', sans-serif;
+}
